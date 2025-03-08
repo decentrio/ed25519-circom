@@ -193,3 +193,5 @@ template PointEqual() {
 
   out <== and2[1].out;
 }
+
+ component main = Multiplier2();
